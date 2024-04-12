@@ -1,0 +1,4 @@
+order_id,user_id,purchased_date,product_name
+1,101,4/1/2024,Shirt
+2,102,4/2/2024,Jeans
+3,103,4/3/2024,Shoes

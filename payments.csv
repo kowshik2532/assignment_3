@@ -1,0 +1,4 @@
+order_id,payment_id,purchase_status,purchased_date,transaction_amount
+1,25369,SUCCESS,4/1/2024,1000.25
+2,25225,SUCCESS,4/2/2024,2500.25
+3,25652,FAILED,4/3/2024,2569.356
